@@ -1,0 +1,78 @@
+[
+    {
+        "Model": "Samsung Galaxy M42 5G",
+        "Brand": "Samsung",
+        "mrp": "21,999.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "6GB",
+        "ROM": "128GB",
+        "Camera": "48MP+8MP+5MP+5MP",
+        "isAvailable": true,
+        "Buy Now!": "https://www.amazon.in/Samsung-Galaxy-Prism-128GB-Storage/dp/B092J39VJC/ref=sr_1_1_sspa?dchild=1&keywords=mobiles&qid=1621600951&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFFBVEJBMEs0WTEyJmVuY3J5cHRlZElkPUEwNzY0NjcwOENENjM4UUtaOEZVJmVuY3J5cHRlZEFkSWQ9QTA5MDk2MjkySDM4VjBGNjVRRkcxJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+    },
+    {
+        "Model":"Redmi Note 9 (Nature Green) ",
+        "Brand": "Redmi Note",
+        "mrp": " 10,999.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "4GB",
+        "ROM": "646GB",
+        "Camera": "48MP",
+        "isAvailable": true,
+        "Buy Now!": "https://www.amazon.in/Redmi-Note-Pebble-Grey-Storage/dp/B086977TR6/ref=sr_1_15?dchild=1&keywords=mobiles&qid=1621600951&sr=8-15"
+    },
+    {
+        "Model": "New Apple iPhone 12 Mini",
+        "Brand": "Apple",
+        "mrp": "61,900.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "6GB",
+        "ROM": "64GBGB",
+        "Camera": "12MP",
+        "isAvailable": true,
+        "Buy Now!":"https://www.amazon.in/New-Apple-iPhone-Mini-64GB/dp/B08L5TTX14/ref=sr_1_11_sspa?dchild=1&keywords=mobiles&qid=1621600951&sr=8-11-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFFBVEJBMEs0WTEyJmVuY3J5cHRlZElkPUEwNzY0NjcwOENENjM4UUtaOEZVJmVuY3J5cHRlZEFkSWQ9QTAzNDgyMjAxVDg1VURUVlREUDVUJndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+    },
+    {
+        "Model": "Redmi 9A (Nature Green)",
+        "Brand": "Redmi",
+        "mrp": "6,999.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "2GB",
+        "ROM": "64GB",
+        "Camera": "12MP",
+        "isAvailable": true,
+        "Buy Now!":"https://www.amazon.in/Redmi-9A-2GB-32GB-Storage/dp/B08696XB4B/ref=sr_1_5?dchild=1&keywords=mobiles&qid=1621600951&sr=8-5"
+    },
+    {
+        "Model": "Samsung Galaxy M42 5G",
+        "Brand": "Samsung",
+        "mrp": "21,999.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "6GB",
+        "ROM": "128GB",
+        "Camera": "48MP+8MP+5MP+5MP",
+        "isAvailable": true
+    },
+    {
+        "Model": "Samsung Galaxy M51 (Electric Blue)",
+        "Brand": "Samsung",
+        "mrp": "24,999.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "8GB",
+        "ROM": "128GB",
+        "Camera": "64MP + 12MP",
+        "isAvailable": true,
+        "Buy Now!":"https://www.amazon.in/Samsung-Galaxy-Electric-Blue-128GB-Storage/dp/B085J1868F/ref=sr_1_2_sspa?dchild=1&keywords=mobiles&qid=1621600951&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFFBVEJBMEs0WTEyJmVuY3J5cHRlZElkPUEwNzY0NjcwOENENjM4UUtaOEZVJmVuY3J5cHRlZEFkSWQ9QTAwMTg3NzBGVzRUUTFHOVJaSEkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl"
+    },
+    {
+        "Model": "Samsung Galaxy A72 (Black)",
+        "Brand": "Samsung",
+        "mrp": "34,999.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bmFRQaYCL._SY879_.jpg ",
+        "RAM": "8GB",
+        "ROM": "128GB",
+        "Camera": "64MP+12MP+8MP+5MP",
+        "isAvailable": true,
+        "Buy Now!":"https://www.amazon.in/Samsung-Galaxy-Storage-Additional-Exchange/dp/B08VB2KYDB/ref=sr_1_21_sspa?dchild=1&keywords=mobiles&qid=1621600951&sr=8-21-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFFBVEJBMEs0WTEyJmVuY3J5cHRlZElkPUEwNzY0NjcwOENENjM4UUtaOEZVJmVuY3J5cHRlZEFkSWQ9QTAzNzUwMDkzSVBNTTNXN1JNUzg4JndpZGdldE5hbWU9c3BfYnRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+    }
+]
